@@ -1,0 +1,2 @@
+learning_rate choice [0.01,0.005,0.001,0.0005,0.0001]
+latent_dimension choice [64,100,128,150,200,256,300,400,512]

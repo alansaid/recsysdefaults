@@ -1,0 +1,9 @@
+# training and evaluation
+state: info
+epochs: 100
+train_batch_size: 4096
+eval_batch_size: 8192
+valid_metric: NDCG@10
+
+# model
+embedding_size: 64
