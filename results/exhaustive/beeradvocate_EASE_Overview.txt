@@ -1,0 +1,4 @@
+Best Parameters: {'reg_weight': 250.0}
+{'model': 'EASE', 'best_valid_score': 0.1321, 'valid_score_bigger': True, 'best_valid_result': OrderedDict([('recall@10', 0.1016), ('mrr@10', 0.2287), ('ndcg@10', 0.1321), ('hit@10', 0.4178), ('precision@10', 0.0906)]), 'test_result': OrderedDict([('recall@10', 0.1031), ('mrr@10', 0.2511), ('ndcg@10', 0.1481), ('hit@10', 0.4259), ('precision@10', 0.105)])} 
+
+Elapsed time 331.05 seconds

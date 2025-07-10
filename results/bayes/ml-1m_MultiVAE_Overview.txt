@@ -1,0 +1,5 @@
+Best Parameters:
+{'model': 'MultiVAE', 'best_valid_score': 0.2102, 'valid_score_bigger': True, 
+'best_valid_result': OrderedDict([('recall@10', 0.1785), ('mrr@10', 0.3695), ('ndcg@10', 0.2102), ('hit@10', 0.7336), ('precision@10', 0.1535)]), 
+'test_result': OrderedDict([('recall@10', 0.197), ('mrr@10', 0.428), ('ndcg@10', 0.252), ('hit@10', 0.7573), ('precision@10', 0.1853)])} 
+Elapsed time 2030.14 seconds

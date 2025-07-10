@@ -1,0 +1,4 @@
+Best Parameters: {'latent_dimension': 100, 'learning_rate': 0.001}
+{'model': 'RecVAE', 'best_valid_score': 0.2149, 'valid_score_bigger': True, 'best_valid_result': OrderedDict([('recall@10', 0.1797), ('mrr@10', 0.3731), ('ndcg@10', 0.2149), ('hit@10', 0.7323), ('precision@10', 0.1581)]), 'test_result': OrderedDict([('recall@10', 0.1996), ('mrr@10', 0.4418), ('ndcg@10', 0.2598), ('hit@10', 0.7611), ('precision@10', 0.1905)])} 
+
+Elapsed time 6357.66 seconds

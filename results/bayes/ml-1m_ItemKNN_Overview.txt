@@ -1,0 +1,5 @@
+Best Parameters:
+{'model': 'ItemKNN', 'best_valid_score': 0.1982, 'valid_score_bigger': True, 
+'best_valid_result': OrderedDict([('recall@10', 0.1567), ('mrr@10', 0.3619), ('ndcg@10', 0.1982), ('hit@10', 0.6948), ('precision@10', 0.1462)]), 
+'test_result': OrderedDict([('recall@10', 0.1722), ('mrr@10', 0.4255), ('ndcg@10', 0.239), ('hit@10', 0.7137), ('precision@10', 0.1753)])} 
+Elapsed time 276.42 seconds

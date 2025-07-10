@@ -1,0 +1,114 @@
+drop_ratio:0.5, ssl_tau:1.0, ssl_weight:1.0
+Valid result:
+recall@10 : 0.0281    mrr@10 : 0.029    ndcg@10 : 0.0189    hit@10 : 0.0879    precision@10 : 0.0097
+Test result:
+recall@10 : 0.0306    mrr@10 : 0.0306    ndcg@10 : 0.0205    hit@10 : 0.0892    precision@10 : 0.01
+
+drop_ratio:0.4, ssl_tau:0.1, ssl_weight:0.5
+Valid result:
+recall@10 : 0.0024    mrr@10 : 0.0108    ndcg@10 : 0.0041    hit@10 : 0.0307    precision@10 : 0.0033
+Test result:
+recall@10 : 0.0022    mrr@10 : 0.011    ndcg@10 : 0.0042    hit@10 : 0.0314    precision@10 : 0.0034
+
+drop_ratio:0.5, ssl_tau:0.5, ssl_weight:0.005
+Valid result:
+recall@10 : 0.0792    mrr@10 : 0.1734    ndcg@10 : 0.0971    hit@10 : 0.3644    precision@10 : 0.0703
+Test result:
+recall@10 : 0.0821    mrr@10 : 0.1956    ndcg@10 : 0.1127    hit@10 : 0.3722    precision@10 : 0.0824
+
+drop_ratio:0, ssl_tau:0.1, ssl_weight:0.005
+Valid result:
+recall@10 : 0.0854    mrr@10 : 0.1846    ndcg@10 : 0.1043    hit@10 : 0.3778    precision@10 : 0.0735
+Test result:
+recall@10 : 0.0905    mrr@10 : 0.2062    ndcg@10 : 0.1203    hit@10 : 0.3903    precision@10 : 0.0861
+
+drop_ratio:0.1, ssl_tau:0.5, ssl_weight:1.0
+Valid result:
+recall@10 : 0.0284    mrr@10 : 0.0301    ndcg@10 : 0.0194    hit@10 : 0.0886    precision@10 : 0.0096
+Test result:
+recall@10 : 0.0324    mrr@10 : 0.0322    ndcg@10 : 0.0216    hit@10 : 0.0994    precision@10 : 0.0109
+
+drop_ratio:0.5, ssl_tau:0.5, ssl_weight:0.05
+Valid result:
+recall@10 : 0.082    mrr@10 : 0.1798    ndcg@10 : 0.1001    hit@10 : 0.3719    precision@10 : 0.0708
+Test result:
+recall@10 : 0.0874    mrr@10 : 0.2022    ndcg@10 : 0.1159    hit@10 : 0.3845    precision@10 : 0.0831
+
+drop_ratio:0.4, ssl_tau:1.0, ssl_weight:0.1
+Valid result:
+recall@10 : 0.0747    mrr@10 : 0.1688    ndcg@10 : 0.093    hit@10 : 0.3592    precision@10 : 0.0678
+Test result:
+recall@10 : 0.0796    mrr@10 : 0.1907    ndcg@10 : 0.1082    hit@10 : 0.3686    precision@10 : 0.0792
+
+drop_ratio:0.4, ssl_tau:0.1, ssl_weight:0.05
+Valid result:
+recall@10 : 0.069    mrr@10 : 0.1665    ndcg@10 : 0.0905    hit@10 : 0.3465    precision@10 : 0.0659
+Test result:
+recall@10 : 0.0758    mrr@10 : 0.1871    ndcg@10 : 0.1054    hit@10 : 0.364    precision@10 : 0.0773
+
+drop_ratio:0.4, ssl_tau:0.5, ssl_weight:0.5
+Valid result:
+recall@10 : 0.0251    mrr@10 : 0.0295    ndcg@10 : 0.018    hit@10 : 0.0828    precision@10 : 0.0091
+Test result:
+recall@10 : 0.0292    mrr@10 : 0.0313    ndcg@10 : 0.0198    hit@10 : 0.0889    precision@10 : 0.0099
+
+drop_ratio:0.4, ssl_tau:1.0, ssl_weight:0.5
+Valid result:
+recall@10 : 0.0293    mrr@10 : 0.0306    ndcg@10 : 0.0196    hit@10 : 0.0939    precision@10 : 0.0103
+Test result:
+recall@10 : 0.0337    mrr@10 : 0.0308    ndcg@10 : 0.0215    hit@10 : 0.0983    precision@10 : 0.0111
+
+drop_ratio:0, ssl_tau:0.2, ssl_weight:0.05
+Valid result:
+recall@10 : 0.0852    mrr@10 : 0.1779    ndcg@10 : 0.0998    hit@10 : 0.37    precision@10 : 0.0687
+Test result:
+recall@10 : 0.0938    mrr@10 : 0.2025    ndcg@10 : 0.1164    hit@10 : 0.3904    precision@10 : 0.0807
+
+drop_ratio:0.4, ssl_tau:1.0, ssl_weight:0.005
+Valid result:
+recall@10 : 0.0768    mrr@10 : 0.1685    ndcg@10 : 0.0939    hit@10 : 0.3594    precision@10 : 0.0687
+Test result:
+recall@10 : 0.0769    mrr@10 : 0.1907    ndcg@10 : 0.1086    hit@10 : 0.3636    precision@10 : 0.0799
+
+drop_ratio:0.1, ssl_tau:0.1, ssl_weight:0.05
+Valid result:
+recall@10 : 0.0682    mrr@10 : 0.1647    ndcg@10 : 0.089    hit@10 : 0.3408    precision@10 : 0.0634
+Test result:
+recall@10 : 0.0746    mrr@10 : 0.1809    ndcg@10 : 0.1021    hit@10 : 0.3583    precision@10 : 0.0753
+
+drop_ratio:0.4, ssl_tau:0.2, ssl_weight:0.5
+Valid result:
+recall@10 : 0.0028    mrr@10 : 0.0267    ndcg@10 : 0.0098    hit@10 : 0.0679    precision@10 : 0.0089
+Test result:
+recall@10 : 0.0031    mrr@10 : 0.0262    ndcg@10 : 0.0099    hit@10 : 0.0673    precision@10 : 0.009
+
+drop_ratio:0.4, ssl_tau:0.1, ssl_weight:0.1
+Valid result:
+recall@10 : 0.0571    mrr@10 : 0.1497    ndcg@10 : 0.0777    hit@10 : 0.319    precision@10 : 0.0572
+Test result:
+recall@10 : 0.0593    mrr@10 : 0.1638    ndcg@10 : 0.0878    hit@10 : 0.3297    precision@10 : 0.0656
+
+drop_ratio:0, ssl_tau:1.0, ssl_weight:0.05
+Valid result:
+recall@10 : 0.0679    mrr@10 : 0.1337    ndcg@10 : 0.0724    hit@10 : 0.3003    precision@10 : 0.0502
+Test result:
+recall@10 : 0.0703    mrr@10 : 0.1503    ndcg@10 : 0.0813    hit@10 : 0.3115    precision@10 : 0.0559
+
+drop_ratio:0.5, ssl_tau:0.1, ssl_weight:1.0
+Valid result:
+recall@10 : 0.0023    mrr@10 : 0.0093    ndcg@10 : 0.0038    hit@10 : 0.0275    precision@10 : 0.0031
+Test result:
+recall@10 : 0.0021    mrr@10 : 0.0106    ndcg@10 : 0.004    hit@10 : 0.0296    precision@10 : 0.0032
+
+drop_ratio:0.4, ssl_tau:0.2, ssl_weight:1.0
+Valid result:
+recall@10 : 0.0027    mrr@10 : 0.0262    ndcg@10 : 0.0095    hit@10 : 0.0662    precision@10 : 0.0086
+Test result:
+recall@10 : 0.003    mrr@10 : 0.0257    ndcg@10 : 0.0096    hit@10 : 0.0658    precision@10 : 0.0087
+
+drop_ratio:0.1, ssl_tau:0.1, ssl_weight:0.1
+Valid result:
+recall@10 : 0.0103    mrr@10 : 0.0139    ndcg@10 : 0.0081    hit@10 : 0.0346    precision@10 : 0.0035
+Test result:
+recall@10 : 0.0119    mrr@10 : 0.0149    ndcg@10 : 0.0088    hit@10 : 0.0398    precision@10 : 0.0042
+

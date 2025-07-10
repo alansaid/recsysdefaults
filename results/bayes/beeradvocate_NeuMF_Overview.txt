@@ -1,0 +1,4 @@
+Best Parameters: {'dropout_prob': 0.0, 'learning_rate': 0.0001, 'mlp_hidden_size': '[32,16,8]'}
+{'model': 'NeuMF', 'best_valid_score': 0.0846, 'valid_score_bigger': True, 'best_valid_result': OrderedDict([('recall@10', 0.0682), ('mrr@10', 0.1543), ('ndcg@10', 0.0846), ('hit@10', 0.341), ('precision@10', 0.0621)]), 'test_result': OrderedDict([('recall@10', 0.0677), ('mrr@10', 0.1724), ('ndcg@10', 0.0959), ('hit@10', 0.3417), ('precision@10', 0.0708)])} 
+
+Elapsed time 9503.28 seconds

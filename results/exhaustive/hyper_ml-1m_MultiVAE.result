@@ -1,0 +1,37 @@
+best params:  {'learning_rate': 0.01}
+best result: 
+{'model': 'MultiVAE', 'best_valid_score': 0.2102, 'valid_score_bigger': True, 
+'best_valid_result': OrderedDict([('recall@10', 0.1785), ('mrr@10', 0.3695), ('ndcg@10', 0.2102), ('hit@10', 0.7336), ('precision@10', 0.1535)]), 
+'test_result': OrderedDict([('recall@10', 0.197), ('mrr@10', 0.428), ('ndcg@10', 0.252), ('hit@10', 0.7573), ('precision@10', 0.1853)])}
+Time ~19min
+
+learning_rate:0.01
+Valid result:
+recall@10 : 0.1785    mrr@10 : 0.3695    ndcg@10 : 0.2102    hit@10 : 0.7336    precision@10 : 0.1535
+Test result:
+recall@10 : 0.197    mrr@10 : 0.428    ndcg@10 : 0.252    hit@10 : 0.7573    precision@10 : 0.1853
+
+learning_rate:0.005
+Valid result:
+recall@10 : 0.1766    mrr@10 : 0.3695    ndcg@10 : 0.2086    hit@10 : 0.7326    precision@10 : 0.1514
+Test result:
+recall@10 : 0.1946    mrr@10 : 0.4248    ndcg@10 : 0.2477    hit@10 : 0.7519    precision@10 : 0.1808
+
+learning_rate:0.001
+Valid result:
+recall@10 : 0.171    mrr@10 : 0.3554    ndcg@10 : 0.2018    hit@10 : 0.7146    precision@10 : 0.1483
+Test result:
+recall@10 : 0.1874    mrr@10 : 0.4157    ndcg@10 : 0.2404    hit@10 : 0.7376    precision@10 : 0.1769
+
+learning_rate:0.0001
+Valid result:
+recall@10 : 0.0764    mrr@10 : 0.2157    ndcg@10 : 0.1063    hit@10 : 0.4683    precision@10 : 0.083
+Test result:
+recall@10 : 0.079    mrr@10 : 0.2388    ndcg@10 : 0.1205    hit@10 : 0.4814    precision@10 : 0.0948
+
+learning_rate:0.0005
+Valid result:
+recall@10 : 0.1506    mrr@10 : 0.3437    ndcg@10 : 0.1873    hit@10 : 0.6816    precision@10 : 0.1391
+Test result:
+recall@10 : 0.1645    mrr@10 : 0.4022    ndcg@10 : 0.2246    hit@10 : 0.7011    precision@10 : 0.1664
+

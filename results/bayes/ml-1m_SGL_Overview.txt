@@ -1,0 +1,4 @@
+Best Parameters: {'drop_ratio': 0.1, 'ssl_tau': 0.1, 'ssl_weight': 0.005}
+{'model': 'SGL', 'best_valid_score': 0.21, 'valid_score_bigger': True, 'best_valid_result': OrderedDict([('recall@10', 0.1691), ('mrr@10', 0.3738), ('ndcg@10', 0.21), ('hit@10', 0.7185), ('precision@10', 0.155)]), 'test_result': OrderedDict([('recall@10', 0.191), ('mrr@10', 0.4408), ('ndcg@10', 0.2546), ('hit@10', 0.7456), ('precision@10', 0.1859)])} 
+
+Elapsed time 10379.31 seconds

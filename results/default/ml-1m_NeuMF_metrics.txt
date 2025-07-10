@@ -1,0 +1,2 @@
+NDCG@10: 0.187
+Full test_result: OrderedDict([('recall@10', 0.148), ('mrr@10', 0.3353), ('ndcg@10', 0.187), ('hit@10', 0.668), ('precision@10', 0.1421)])
